@@ -28,5 +28,5 @@
 * ![alt](images/computer-tips_000017.png)
 * ![alt](images/computer-tips_000019.png)
 * ![alt](images/computer-tips_000020.png)
-* Finall click **Restart**
+* Finally click after the update is completed **Restart**. 
   
