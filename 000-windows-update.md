@@ -7,10 +7,10 @@
 
 * Make sure Laptop/desktop is connected with power supply and power is on
 * Ensure internet is connected
-* Type **update** as given below
-* ![alt](images/computer-tips_000011.png)
-* Click on **Check for Updates**. The below screen would be displayed
-* ![alt](images/computer-tips_000012.png)
+* Type **update** as given below \
+![alt](images/computer-tips_000011.png)
+* Click on **Check for Updates**. The below screen would be displayed \
+![alt](images/computer-tips_000012.png)
 * Click **Check for updates**. After clicking, wait for few seconds and check the staus
   * **You're up to date** means that  **No new updates available from Microsoft**
   * The available updates for software programs will be listed and we can  **Download and Install Updates**
@@ -19,14 +19,14 @@
 
 * Make sure Laptop/desktop is connected with power supply and power is on
 * Ensure internet is connected
-* Type **dell** as given below
-* ![alt](images/computer-tips_000015.png)
-* Click **Check** as given below
-* ![alt](images/computer-tips_000016.png)
+* Type **dell** as given below \
+ ![alt](images/computer-tips_000015.png)
+* Click **Check** as given below \
+ ![alt](images/computer-tips_000016.png)
 * If any updates are there, it would be listed. **Select the updates** as given below and Click **Install**
-* Click on - **Automatically restart system (when required)**
-* ![alt](images/computer-tips_000017.png)
-* ![alt](images/computer-tips_000019.png)
-* ![alt](images/computer-tips_000020.png)
-* Finally click after the update is completed **Restart**. 
+* Click on - **Automatically restart system (when required)** \
+[alt](images/computer-tips_000017.png) \
+![alt](images/computer-tips_000019.png) \
+![alt](images/computer-tips_000020.png) \
+* Finally click after the update is completed **Restart**
   
