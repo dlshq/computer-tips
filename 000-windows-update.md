@@ -27,6 +27,6 @@
 * Click on - **Automatically restart system (when required)** \
 [alt](images/computer-tips_000017.png) \
 ![alt](images/computer-tips_000019.png) \
-![alt](images/computer-tips_000020.png) \
+![alt](images/computer-tips_000020.png) 
 * Finally click after the update is completed **Restart**
   
