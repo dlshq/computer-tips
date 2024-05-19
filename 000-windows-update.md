@@ -10,7 +10,7 @@
 * Type **update** as given below
 * ![alt](images/computer-tips_000011.png)
 * Click on **Check for Updates**. The below screen would be displayed
-* ![alt](images/computer-tips_000011.png)
+* ![alt](images/computer-tips_000012.png)
 * Click **Check for updates**. After clicking, wait for few seconds and check the staus
   * **You're up to date** means that  **No new updates available from Microsoft**
   * The available updates for software programs will be listed and we can  **Download and Install Updates**
