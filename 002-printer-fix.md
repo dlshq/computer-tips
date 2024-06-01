@@ -6,6 +6,7 @@
 * Delete the printer
 * Download (if not already downloaded) and Reinstall the printer driver
 * Restart the System
+* Add a printer or scanner from Printer Settings
 
 ## Windows - Printer Settings
 
@@ -52,4 +53,7 @@
 
 
 ## Download (if not already downloaded) and Reinstall the printer driver
+
+
+## Add a printer or scanner from Printer Settings
 
