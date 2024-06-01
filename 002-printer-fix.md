@@ -2,9 +2,9 @@
 
 * Delete/Cancel all pending print jobs
 * Remove/clear any stuck paper inside the printer by opening the printer
-* Delete all printers
 * Restart print spooler service
-* Reinstall the printer driver
+* Delete the printer
+* Download (if not already downloaded) and Reinstall the printer driver
 * Restart the System
 
 ## Windows - Printer Settings
@@ -29,3 +29,27 @@
 ![alt](images/computer-tips_000026.png)
 * Click **Cancel all documents** to cancel the printing of all the documents
 * Wait until all documents are removed from this screen
+
+
+## Restart the printer spooler service
+
+* In **Type here to search**, type: **services** as given below
+![alt](images/computer-tips_000027.png)
+* Click **Services**. It opens the below screen
+![alt](images/computer-tips_000028.png)
+* Look for **Print Spooler** as given below
+![alt](images/computer-tips_000029.png)
+* Right Click **Print Spooler** as given below and then click **Restart**
+![alt](images/computer-tips_000030.png)
+
+
+## Delete the printer
+
+* Go to **Printer Settings**
+* Select the printer **HP LaserJet M1005** or **HP LaserJet M1005 (Copy 3)**
+* Click **Remove Device** to remove the printer
+![alt](images/computer-tips_000031.png)
+
+
+## Download (if not already downloaded) and Reinstall the printer driver
+
