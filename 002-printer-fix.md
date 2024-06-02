@@ -1,14 +1,16 @@
-# Printer Troubleshooting
+# Printer Troubleshooting Steps
 
-* Delete/Cancel all pending print jobs
-* Remove/clear any stuck paper inside the printer by opening the printer
-* Restart print spooler service
-* Delete the printer
-* Download (if not already downloaded) and Reinstall the printer driver
-* Restart the System
-* Add a printer or scanner from Printer Settings
+* **Step 1** Delete/Cancel all pending print jobs
+* **Step 2** Remove/clear any stuck paper inside the printer by opening the printer
+* **Step 3** Restart print spooler service
+* **Step 4** Delete the printer
+* **Step 5** Download (if not already downloaded) and Reinstall the printer driver
+* **Step 6** Restart the Computer
+* **Step 7** Restart the Printer
+* **Step 8** Check Printer in Printer settings
+* **Step 9** Print Test Page
 
-## Windows - Printer Settings
+## Step 1 - Delete/Cancel all pending print jobs
 
 * In **Type here to search**, type: **Printer** as given below
 ![alt](images/computer-tips_000021.png)
@@ -31,8 +33,9 @@
 * Click **Cancel all documents** to cancel the printing of all the documents
 * Wait until all documents are removed from this screen
 
+## Step 2 - Remove/clear any stuck paper inside the printer by opening the printer
 
-## Restart the printer spooler service
+## Step 3 - Restart print spooler service
 
 * In **Type here to search**, type: **services** as given below
 ![alt](images/computer-tips_000027.png)
@@ -44,16 +47,19 @@
 ![alt](images/computer-tips_000030.png)
 
 
-## Delete the printer
+## Step 4 - Delete the printer
 
 * Go to **Printer Settings**
 * Select the printer **HP LaserJet M1005** or **HP LaserJet M1005 (Copy 3)**
 * Click **Remove Device** to remove the printer
 ![alt](images/computer-tips_000031.png)
 
+## Step 5 Download and Reinstall the printer driver
 
-## Download (if not already downloaded) and Reinstall the printer driver
+## Step 6 Restart the Computer
 
+## Step 7 Restart the Printer
 
-## Add a printer or scanner from Printer Settings
+## Step 8 Check Printer in Printer settings
 
+## Step 9 Print Test Page
