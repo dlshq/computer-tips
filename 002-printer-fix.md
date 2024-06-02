@@ -18,9 +18,7 @@
 * Click on **Printers & Scanners**. It opens the below Printer settings
 ![alt](images/computer-tips_000022.png)
 
-## How to Cancel all printer jobs
-
-* Click on **HP LaserJet M1005** or **HP LaserJet M1005 (Copy 3)**
+* Click on **HP LaserJet M1005**
 ![alt](images/computer-tips_000023.png)
 
 * There are three options
@@ -63,3 +61,4 @@
 ## Step 8 Check Printer in Printer settings
 
 ## Step 9 Print Test Page
+
