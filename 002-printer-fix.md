@@ -48,11 +48,35 @@
 ## Step 4 - Delete the printer
 
 * Go to **Printer Settings**
-* Select the printer **HP LaserJet M1005** or **HP LaserJet M1005 (Copy 3)**
-* Click **Remove Device** to remove the printer
+* Select the printer **HP LaserJet M1005**
+* Click **Remove Device** to remove the printer as given below
 ![alt](images/computer-tips_000031.png)
 
 ## Step 5 Download and Reinstall the printer driver
+
+* Software is downloaded and available in **`D:\printer-software`** - *HP_Printer_LJM1005_Full_Solution.exe*
+![alt](images/computer-tips_000032.png)
+
+* Double click **HP_Printer_LJM1005_Full_Solution.exe**
+
+* Click **Yes**
+
+* **hp** will be displayed in **Windows Task bar**
+![alt](images/computer-tips_000033.png)
+
+* Click on **hp**
+
+* Click  **Add/Repair**
+![alt](images/computer-tips_000034.png)
+
+* Click **Repair**. Then click **Next**
+![alt](images/computer-tips_000035.png)
+
+* This will install the printer software. Finally installation complete message would be displayed as below
+![alt](images/computer-tips_000036.png)
+
+* **A System Reboot is required** window would be displayed as below. Click **Yes** in this window
+![alt](images/computer-tips_000037.png)
 
 ## Step 6 Restart the Computer
 
@@ -60,5 +84,17 @@
 
 ## Step 8 Check Printer in Printer settings
 
+* In **Type here to search**, type: **Printer** as given below
+![alt](images/computer-tips_000038.png)
+* In **Printers and Scanners** window, **HP LaserJet M1005** should be displayed
+![alt](images/computer-tips_000039.png)
+* Click on **HP LaserJet M1005**. In this Click **Manage**
+![alt](images/computer-tips_000040.png)
+* Click on **HP LaserJet M1005**. In this Click **Set as default**
+![alt](images/computer-tips_000041.png)
+
 ## Step 9 Print Test Page
+
+* Load paper in printer tray
+* Print a test page
 
